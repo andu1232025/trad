@@ -1,0 +1,16 @@
+# Core dependencies for Nifty Scalper
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Timezone support
+pytz>=2023.3
+
+# Fyers API for trading
+fyers-apiv3>=3.1.0
+
+# Optional: For enhanced features
+# matplotlib>=3.6.0  # For plotting
+# ta-lib>=0.4.25     # For additional technical indicators
+# python-dotenv>=0.21.0  # For .env file support
